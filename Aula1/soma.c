@@ -8,7 +8,7 @@ int main()
     printf("Digite o segundo inteiro\n");
     scanf("%d", &b);
     soma = a + b;
-    printf("O valor da soma eh:\n", soma);
+    printf("O valor da soma eh:\n%d", soma);
 
 
     return 0;

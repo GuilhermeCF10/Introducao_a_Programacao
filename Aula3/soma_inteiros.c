@@ -8,7 +8,6 @@ int main()
     {
         soma = soma + contador;
         ++contador;
+        printf("O valor da soma eh %d\n", soma);
     }
-
-    printf("O valor da soma eh %d", soma);
 }

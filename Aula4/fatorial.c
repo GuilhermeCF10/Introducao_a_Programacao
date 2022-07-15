@@ -7,7 +7,9 @@ int main()
 
     while (1)
     {
-        int x, fatorial = 1;
+        int x;
+        float fatorial = 1;
+
         printf("\nFatorial\n");
         printf("Insira qual fatorial voce deseja:\n");
         scanf("%d", &x);

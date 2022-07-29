@@ -1,8 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    int a=5, b=9;
-
     printf("\nNumeros pares\n");
     pares();
     printf("\nNumeros impares\n");
@@ -18,7 +16,7 @@ void pares (void){
 }
 
 void impares (void){
-    for(int i=1; i <= 10; i+=2) {
+    for(int i=1; i <= 11; i+=2) {
         printf("Os numeros impares sao: %d\n", i);
     }
 }

@@ -2,40 +2,18 @@
 
 int main()
 {
-    int i, n;
-
-    int t1 = 0, t2 = 1;
-
-    int proximo = t1 + t2;
+    int fib=0, t1=1, t2=0, n;
 
     printf("Insira quantos fibonacci voce quer:\n");
     scanf("%d", &n);
-
-    // print the first two terms t1 and t2
-    printf("Fibonacci: %d, %d, ", t1, t2);
-
-    for (i = 3; i <= n; ++i)
+    printf("\n");
+    for (int contador = 1; contador <= n; ++contador)
     {
-        printf("%d, ", proximo);
+
+        fib = t1 + t2;
         t1 = t2;
-        t2 = proximo;
-        proximo = t1 + t2;
+        t2 = fib;
+        printf("%d\n", fib);
     }
 }
 
-/*
-1
-1+1 =2
-1+2+1 = 4
-1+3+3+1 = 8
-
-
-
-
-
-
-
-
-
-
-*/

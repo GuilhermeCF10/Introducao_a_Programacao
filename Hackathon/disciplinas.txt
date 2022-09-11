@@ -1,0 +1,50 @@
+Calculo Diferencial e Integral I		,6,	1
+Quimica dos materiais				,5,	1
+Introducao a Programacao			,5,	1
+Geometria Analitica				,3,	1
+Desenho Tecnico I				,3,	1
+Introducao a Engenharia				,2,	1
+Calculo Diferencial e Integral II		,6,	2
+Fisica I					,5,	2
+Fisica Exp I					,2,	2
+Algebra Linear					,3,	2
+Desenho Tecnico II				,3,	2
+Calculo Numerico				,5,	2
+Ciencias do Ambiente				,2,	2
+Calculo Vetorial				,6,	3
+Fisica II					,5,	3
+Fisica Exp II					,2,	3
+Modelagem Computacional				,4,	3
+Introducao a Ciencia dos Materiais		,4,	3
+Estatica					,4,	3
+Etica Profissional e Humanidades		,2,	3
+Introducao a Equacoes Diferenciais		,5,	4
+Fisica III					,4,	4
+Fisica Exp III					,2,	4
+Probabilidade e Estatistica			,5,	4
+Ciencia dos Materiais I				,4,	4
+Dinamica I					,6,	4
+Metodos Numericos para Equacoes Diferenciais	,5,	5
+Termodinamica e Maquinas Termicas I		,5,	5
+Circuitos Eletricos				,3,	5
+Mecanica dos Materiais I			,5,	5
+Ciencia dos Materiais II			,4,	5
+Vibracoes I					,4,	5
+Mecanica dos Fluidos I				,5,	6
+Termodinamica e Maquinas Termicas II		,5,	6
+Elementos de Maquinas I				,4,	6
+Mecanica dos Materiais II			,5,	6
+Processos de Fabricacao I			,5,	6
+Mecanica dos Fluidos II				,5,	7
+Transferencia de Calor I			,5,	7
+Elementos de Maquinas II			,4,	7
+Macromecanica dos Materiais Compositos		,3,	7
+Modelagem e Controle de Sistemas		,5,	7
+Estagio						,12,	8
+Projeto de Graduacao e Pub Tecnica I		,4,	9
+Engenharia Ergonomica				,2,	9
+Processos de Fabricacao II			,5	9
+Projeto de Graduacao e Pub Tecnica II		,4,	10
+Gerencia de Projetos				,2,	10
+Selecao de Materiais				,4,	10
+Instrumentacao e Experimentacao			,5,	10

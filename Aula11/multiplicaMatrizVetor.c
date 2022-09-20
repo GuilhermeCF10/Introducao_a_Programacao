@@ -10,8 +10,6 @@ int multiplicaMatriz()
     int resultante[DIML];
     int i, j;
 
-    250
-
     // Inserindo os valores da matriz
     for (i = 0; i < DIML; i++)
     {
